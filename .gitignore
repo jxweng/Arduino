@@ -2,4 +2,5 @@ libraries
 */*.elf
 */*.hex
 */*.tags
+*/build
 */*.bin
